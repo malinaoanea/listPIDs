@@ -1048,6 +1048,11 @@ sys_utrace(struct proc *curp, void *v, register_t *retval)
 #endif
 }
 
+/*
+
+These are being added.
+*/
+
 void DFS(struct process *p, int n){
 
 
